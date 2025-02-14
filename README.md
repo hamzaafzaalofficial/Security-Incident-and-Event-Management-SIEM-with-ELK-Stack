@@ -9,6 +9,10 @@
 3. Visualize CloudTrail logs in Kibana.
 4. Set up detection rules and alerts to monitor and identify potential security threats.
 
+Note: 
+For visual aids check out here: https://www.linkedin.com/pulse/security-incident-event-management-siem-elk-stack-hamza-afzal-dutte/
+
+
 ## Steps:
 
 ## Step1: 
